@@ -10,6 +10,7 @@ __pycache__/
 *.tflite
 *.zip
 *.pdf
+*.csv
 
 # data folders
 **data/
@@ -25,3 +26,6 @@ __pycache__/
 
 **midterms_evaluations/
 **samples/
+# Carpetas donde voy a guardar mis cosas
+notes**
+test**
