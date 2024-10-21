@@ -11,6 +11,7 @@ __pycache__/
 *.zip
 *.pdf
 *.csv
+*.txt
 
 # data folders
 **data/
